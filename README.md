@@ -22,11 +22,13 @@ I am a **mechatronics engineer** passionate about **technology**, **Industry 4.0
 - 🎓 Currently finishing my studies in general engineering as part of a double degree program.
 - 🦾 Experienced in embedded systems programming and data analysis.
 - 🌱 Learning full-stack developement and cybersecurity basics.
-- 🏋️ Sports enthusiast, primarily focused on calisthenics, strength training, and skill development
+- 🤸‍♂️ Sports enthusiast, primarily focused on calisthenics, strength training, and skill development.
 
 ## 💻 Tech Stack
 
 ### **Im experienced with:**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertocuervot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="right" alt="Most Used Languages" />
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -61,4 +63,4 @@ I am a **mechatronics engineer** passionate about **technology**, **Industry 4.0
 
 - 🌐 **Portfolio/Website:** [Coming Soon] 
 - 📧 [**Email**](mailto:robertocuervotorres@hotmail.com)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/ra-cuervotorres/)
+- 💼 <a href="https://www.linkedin.com/in/ra-cuervotorres/" target="_blank"> <b>LinkedIn</b> </a>
