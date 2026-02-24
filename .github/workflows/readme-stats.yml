@@ -27,16 +27,16 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=Makefile
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=Makefile,Mathematica
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_gh_stats }}
 
-      - name: Generate top languages card light
+      - name: Generate top languages card light public
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&hide_border=false&hide=Makefile
-          path: profile/top-langs-lightmode.svg
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&count_private=false&hide=Makefile,Mathematica
+          path: profile/top-langs-public-lightmode.svg
           token: ${{ secrets.PAT_gh_stats }}
 
       - name: Generate pin card
