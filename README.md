@@ -29,6 +29,7 @@ I am a **mechatronics engineer** passionate about **technology**, **Industry 4.0
 ### **Im experienced with:**
 
 <img src="./profile/top-langs.svg" align="right" alt="Most Used Languages" />
+<br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
